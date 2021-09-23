@@ -1,0 +1,13 @@
+CLOUDINARY_CLOUD_NAME=de71abxyj
+
+CLOUDINARY_KEY=469843975384194
+
+CLOUDINARY_SECRET=ofzbXwWcGx32WZY82GYUU01c8R0
+
+MAPBOX_TOKEN=pk.eyJ1IjoiaXNzYWNsbyIsImEiOiJja3RpcTg0cnIxNGg4MnB1ZXBjN3ZxenU2In0.wNYgQGckSnM5XB1Dh0T3FA
+
+DB_URL=mongodb+srv://user1:U5oBQxrWTcqwjvXR@cluster1.4t0ig.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+GOOGLE_CLIENT_ID=537711828103-l282c718udhqg3lc5ic6grukve6k8ta2.apps.googleusercontent.com
+
+GOOGLE_CLIENT_SECRET=L47PEqhBxgpoxC_REMIaXRdt
