@@ -8,6 +8,6 @@ MAPBOX_TOKEN=pk.eyJ1IjoiaXNzYWNsbyIsImEiOiJja3RpcTg0cnIxNGg4MnB1ZXBjN3ZxenU2In0.
 
 DB_URL=mongodb+srv://user1:U5oBQxrWTcqwjvXR@cluster1.4t0ig.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
-GOOGLE_CLIENT_ID=537711828103-l282c718udhqg3lc5ic6grukve6k8ta2.apps.googleusercontent.com
+// GOOGLE_CLIENT_ID=537711828103-l282c718udhqg3lc5ic6grukve6k8ta2.apps.googleusercontent.com
 
-GOOGLE_CLIENT_SECRET=L47PEqhBxgpoxC_REMIaXRdt
+// GOOGLE_CLIENT_SECRET=L47PEqhBxgpoxC_REMIaXRdt

@@ -18,7 +18,6 @@ router
     validateCampground,
     catchAsync(campgrounds.createCampground)
   );
-
 router.get("/new", isLoggedIn, campgrounds.renderNewForm);
 
 router
@@ -33,11 +32,6 @@ router
   )
   .delete(isLoggedIn, isAuthor, catchAsync(campgrounds.deleteCampground));
 
-router.get(
-  "/:id/edit",
-  isLoggedIn,
-  isAuthor,
-  catchAsync(campgrounds.renderEditForm)
-);
+router.get("/:id/edit", isLoggedIn, isAuthor, catchAsync(campgrounds.renderEditForm));
 
 module.exports = router;
